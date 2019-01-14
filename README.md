@@ -3,4 +3,4 @@ p5_test
 
 # another header
 
-this repo will hold some things
+this *repo* will hold some things
