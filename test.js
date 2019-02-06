@@ -10,7 +10,6 @@ function setup() {
 
 function draw() {
   background(250);
-  translate(440, 0, 0);
   push();
   rotateZ(theta * 0.1);
   rotateX(theta * 0.1);
